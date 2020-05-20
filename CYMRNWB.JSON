@@ -1,0 +1,304 @@
+{
+  "data": {
+    "abbr": "CYMRNWB",
+    "alphabet": {
+      "script": "Latn",
+      "name": "Latin",
+      "direction": "ltr",
+      "unicode": true,
+      "requires_font": false,
+      "primary_font": null
+    },
+    "mark": "",
+    "name": "Revised New Welsh Bible",
+    "description": null,
+    "vname": "Beibl Cymraeg Newydd",
+    "vdescription": null,
+    "publishers": [{
+      "slug": "british-and-foreign-bible-society",
+      "abbreviation": null,
+      "primaryColor": "#00afcf",
+      "secondaryColor": "#00AACC",
+      "inactive": 0,
+      "url_facebook": "https:\/\/www.facebook.com\/BibleSociety",
+      "url_website": "http:\/\/www.biblesociety.org.uk\/",
+      "url_donate": "http:\/\/www.biblesociety.org.uk\/support-us\/donate-now\/",
+      "url_twitter": "https:\/\/twitter.com\/biblesociety",
+      "address": "Stonehill Green, Westlea, Swindon, United Kingdom, SN5 7DG",
+      "address2": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "zip": null,
+      "phone": "01793 418222",
+      "email": null,
+      "email_director": null,
+      "latitude": 51.5621258,
+      "longitude": -1.8204023,
+      "pivot": {
+        "bible_id": "CYMRNWB",
+        "organization_id": 153,
+        "relationship_type": "publisher"
+      },
+      "logo_icon": {
+        "language_id": 6414,
+        "language_iso": "eng",
+        "url": "https:\/\/images.bible.cloud\/icon\/british-and-foreign-bible-society_icon.svg",
+        "icon": 1
+      },
+      "translations": [{
+        "language_id": 4754,
+        "vernacular": 0,
+        "alt": 0,
+        "name": "ब्रिटिश र विदेशी बाइबल समाज",
+        "description_short": null
+      }, {
+        "language_id": 6411,
+        "vernacular": 0,
+        "alt": 0,
+        "name": "Sociedad Bíblica Británica Foránea",
+        "description_short": null
+      }, {
+        "language_id": 6414,
+        "vernacular": 0,
+        "alt": 0,
+        "name": "British and Foreign Bible Society",
+        "description_short": "Founded in 1804, the Society's Patron is HM The Queen and its President is the Bishop of London, Dr Richard Chartres. We make Scriptures available where there are none. "
+      }]
+    }],
+    "providers": [],
+    "equivalents": [{
+      "bible_id": "CYMRNWB",
+      "equivalent_id": "c62e545929550be7",
+      "organization_id": 27,
+      "type": "archive",
+      "site": "Digital Bible Library",
+      "suffix": ""
+    }, {
+      "bible_id": "CYMRNWB",
+      "equivalent_id": "WLSBCNN",
+      "organization_id": 9,
+      "type": "api",
+      "site": "bible.is",
+      "suffix": ""
+    }, {
+      "bible_id": "CYMRNWB",
+      "equivalent_id": "WLSBCNN1DA",
+      "organization_id": 9,
+      "type": "api",
+      "site": "bible.is",
+      "suffix": "New Testament Audio"
+    }, {
+      "bible_id": "CYMRNWB",
+      "equivalent_id": "WLSBCNN2DA",
+      "organization_id": 9,
+      "type": "api",
+      "site": "bible.is",
+      "suffix": "New Testament Dramatized Audio"
+    }, {
+      "bible_id": "CYMRNWB",
+      "equivalent_id": "BCND",
+      "organization_id": 531,
+      "type": "archive",
+      "site": "YouVersion version",
+      "suffix": ""
+    }],
+    "language": "Welsh",
+    "language_id": 7395,
+    "iso": "cym",
+    "date": "2004",
+    "country": "United Kingdom",
+    "books": [{
+      "book_id": "MAT",
+      "name": "Yr Efengyl yn ôl Mathew",
+      "name_short": "Yr Efengyl yn ôl Mathew",
+      "chapters": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+    }, {
+      "book_id": "MRK",
+      "name": "Yr Efengyl yn ôl Marc",
+      "name_short": "Yr Efengyl yn ôl Marc",
+      "chapters": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+    }, {
+      "book_id": "LUK",
+      "name": "Yr Efengyl yn ôl Luc",
+      "name_short": "Yr Efengyl yn ôl Luc",
+      "chapters": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+    }, {
+      "book_id": "JHN",
+      "name": "Yr Efengyl yn ôl Ioan",
+      "name_short": "Yr Efengyl yn ôl Ioan",
+      "chapters": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
+    }, {
+      "book_id": "ACT",
+      "name": "ACTUA",
+      "name_short": "ACTUA",
+      "chapters": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+    }, {
+      "book_id": "ROM",
+      "name": "Llythyr Paul at y Rhufeiniaid",
+      "name_short": "Llythyr Paul at y Rhufeiniaid",
+      "chapters": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+    }, {
+      "book_id": "1CO",
+      "name": "Llythyr Cyntaf Paul at y Corinthiaid",
+      "name_short": "Llythyr Cyntaf Paul at y Corinthiaid",
+      "chapters": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+    }, {
+      "book_id": "2CO",
+      "name": "Ail Lythyr Paul at y Corinthiaid",
+      "name_short": "Ail Lythyr Paul at y Corinthiaid",
+      "chapters": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+    }, {
+      "book_id": "GAL",
+      "name": "Llythyr Paul at y Galatiaid",
+      "name_short": "Llythyr Paul at y Galatiaid",
+      "chapters": [1, 2, 3, 4, 5, 6]
+    }, {
+      "book_id": "EPH",
+      "name": "Llythyr Paul at yr Effesiaid",
+      "name_short": "Llythyr Paul at yr Effesiaid",
+      "chapters": [1, 2, 3, 4, 5, 6]
+    }, {
+      "book_id": "PHP",
+      "name": "Llythyr Paul at y Philipiaid",
+      "name_short": "Llythyr Paul at y Philipiaid",
+      "chapters": [1, 2, 3, 4]
+    }, {
+      "book_id": "COL",
+      "name": "Llythyr Paul at y Colosiaid",
+      "name_short": "Llythyr Paul at y Colosiaid",
+      "chapters": [1, 2, 3, 4]
+    }, {
+      "book_id": "1TH",
+      "name": "Llythyr Cyntaf Paul at y Thesaloniaid",
+      "name_short": "Llythyr Cyntaf Paul at y Thesaloniaid",
+      "chapters": [1, 2, 3, 4, 5]
+    }, {
+      "book_id": "2TH",
+      "name": "Aid Lythyr Paul at y Thesaloniaid",
+      "name_short": "Aid Lythyr Paul at y Thesaloniaid",
+      "chapters": [1, 2, 3]
+    }, {
+      "book_id": "1TI",
+      "name": "Llythyr Cyntaf Paul at Tomotheus",
+      "name_short": "Llythyr Cyntaf Paul at Tomotheus",
+      "chapters": [1, 2, 3, 4, 5, 6]
+    }, {
+      "book_id": "2TI",
+      "name": "Ail Lythyr Paul at Timotheus",
+      "name_short": "Ail Lythyr Paul at Timotheus",
+      "chapters": [1, 2, 3, 4]
+    }, {
+      "book_id": "TIT",
+      "name": "Llythyr Paul at Titus",
+      "name_short": "Llythyr Paul at Titus",
+      "chapters": [1, 2, 3]
+    }, {
+      "book_id": "PHM",
+      "name": "Llythyr Paul at Philemon",
+      "name_short": "Llythyr Paul at Philemon",
+      "chapters": [1]
+    }, {
+      "book_id": "HEB",
+      "name": "Y Llythyr at yr Hebreaid",
+      "name_short": "Y Llythyr at yr Hebreaid",
+      "chapters": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+    }, {
+      "book_id": "JAS",
+      "name": "Llythyr Iago",
+      "name_short": "Llythyr Iago",
+      "chapters": [1, 2, 3, 4, 5]
+    }, {
+      "book_id": "1PE",
+      "name": "Llythyr Cyntaf Pedr",
+      "name_short": "Llythyr Cyntaf Pedr",
+      "chapters": [1, 2, 3, 4, 5]
+    }, {
+      "book_id": "2PE",
+      "name": "Ail Llythyr Pedr",
+      "name_short": "Ail Llythyr Pedr",
+      "chapters": [1, 2, 3]
+    }, {
+      "book_id": "1JN",
+      "name": "Llythyr Cyntaf Ioan",
+      "name_short": "Llythyr Cyntaf Ioan",
+      "chapters": [1, 2, 3, 4, 5]
+    }, {
+      "book_id": "2JN",
+      "name": "Ail Llythyr Ioan",
+      "name_short": "Ail Llythyr Ioan",
+      "chapters": [1]
+    }, {
+      "book_id": "3JN",
+      "name": "Trydydd Llythyr Ioan",
+      "name_short": "Trydydd Llythyr Ioan",
+      "chapters": [1]
+    }, {
+      "book_id": "JUD",
+      "name": "Llythyr Jwdas",
+      "name_short": "Llythyr Jwdas",
+      "chapters": [1]
+    }, {
+      "book_id": "REV",
+      "name": "Datguddiad Ioan",
+      "name_short": "Datguddiad Ioan",
+      "chapters": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
+    }],
+    "links": [{
+      "bible_id": "CYMRNWB",
+      "type": "web",
+      "url": "https:\/\/www.bible.com\/en-GB\/bible\/394\/jhn.1.bcn",
+      "title": "NT",
+      "provider": "YouVersion",
+      "organization_id": 531
+    }, {
+      "bible_id": "CYMRNWB",
+      "type": "web",
+      "url": "https:\/\/www.bible.com\/versions\/394",
+      "title": "BCND",
+      "provider": "YouVersion",
+      "organization_id": 531
+    }, {
+      "bible_id": "CYMRNWB",
+      "type": "web",
+      "url": "https:\/\/www.bible.com\/versions\/221",
+      "title": "BCNDA",
+      "provider": "YouVersion",
+      "organization_id": 531
+    }, {
+      "bible_id": "CYMRNWB",
+      "type": "audio_web",
+      "url": "https:\/\/live.bible.is\/bible\/CYMRNWB",
+      "title": "NT",
+      "provider": "Faith Comes By Hearing",
+      "organization_id": 9
+    }],
+    "filesets": {
+      "dbp-prod": [{
+        "id": "WLSBCN",
+        "type": "text_plain",
+        "size": "NT"
+      }, {
+        "id": "WLSBCN",
+        "type": "text_format",
+        "size": "NT"
+      }, {
+        "id": "WLSBCNN2DA16",
+        "type": "audio_drama",
+        "size": "NT"
+      }, {
+        "id": "WLSBCNN1DA16",
+        "type": "audio",
+        "size": "NT"
+      }, {
+        "id": "WLSBCNN2DA",
+        "type": "audio_drama",
+        "size": "NT"
+      }, {
+        "id": "WLSBCNN1DA",
+        "type": "audio",
+        "size": "NT"
+      }]
+    }
+  }
+}
